@@ -1,9 +1,9 @@
 
-# Gerador de Senha
+🔑# Gerador de Senha
 
 Este é um gerador de senhas simples, desenvolvido em Python, que permite ao usuário criar senhas aleatórias com base em suas preferências de comprimento, letras maiúsculas, números e símbolos. O programa também oferece a opção de copiar a senha gerada para a área de transferência.
 
-## Funcionalidades
+🛠️## Funcionalidades
 
 - Geração de senhas aleatórias com letras minúsculas, maiúsculas, números e símbolos.
 - Permite ao usuário escolher o comprimento da senha.
